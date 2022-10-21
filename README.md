@@ -10,7 +10,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=React+%7C+Next+JS+%7C+React+Native" alt="Typing SVG" /></a>
 </p>
 
-<img align="left" src="https://raw.githubusercontent.com/lockus96/portfolio/main/public/img/me.jpg?token=GHSAT0AAAAAABWFSPMSWTJXLSR6ILAZOQOUY2TDV7A" alt="me" width="320" />
+<img align="left" src="[https://raw.githubusercontent.com/lockus96/portfolio/main/public/img/me.jpg?token=GHSAT0AAAAAABWFSPMSWTJXLSR6ILAZOQOUY2TDV7A](https://i.imgur.com/j3Fs3w9.jpg)" alt="me" width="320" />
 <hr>
 
 ```
@@ -38,10 +38,9 @@
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
     <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
 </p>
 
-### 🗄️ Databases and Cloud Hosting
+### 🗄️ Databases y Cloud Hosting
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
