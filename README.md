@@ -10,7 +10,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=React+%7C+Next+JS+%7C+React+Native" alt="Typing SVG" /></a>
 </p>
 
-<img align="left" src="[[https://i.imgur.com/j3Fs3w9.jpg](https://i.imgur.com/j3Fs3w9.jpg)](https://i.imgur.com/j3Fs3w9.jpg)" alt="me" width="320" />
+<img align="left" src="[[https://i.imgur.com/j3Fs3w9.jpg]" alt="me" width="320" />
 <hr>
 
 ```
