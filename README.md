@@ -1,8 +1,8 @@
 <h1 align="center">
 ¡Hola! Soy Miguel Angel Carrizo
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
- <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
+ <!--<img src="https://komarev.com/ghpvc/?username=lockus96&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="me" />-->
+ <img src="https://gpvc.arturio.dev/lockus96" alt="Profile views" align='right'/> <a href="https://github.com/lockus96"> </a> 
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -10,7 +10,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=React+%7C+Next+JS+%7C+React+Native" alt="Typing SVG" /></a>
 </p>
 
-<img align="left" src="[https://raw.githubusercontent.com/lockus96/portfolio/main/public/img/me.jpg?token=GHSAT0AAAAAABWFSPMSWTJXLSR6ILAZOQOUY2TDV7A](https://i.imgur.com/j3Fs3w9.jpg)" alt="me" width="320" />
+<img align="left" src="[[https://raw.githubusercontent.com/lockus96/portfolio/main/public/img/me.jpg?token=GHSAT0AAAAAABWFSPMSWTJXLSR6ILAZOQOUY2TDV7A](https://i.imgur.com/j3Fs3w9.jpg)](https://i.imgur.com/j3Fs3w9.jpg)" alt="me" width="320" />
 <hr>
 
 ```
