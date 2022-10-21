@@ -16,8 +16,8 @@
 ```
 💻 Desarrollador Web
 📝 Estudiante eterno
-🔭 Aprendiendo React Native, Java y un par de cosas más
-🌟 Lenguajes Principales: JavaScript, TypeScript
+🔭 Aprendiendo Actualmente: React Native, Java y TypeScript
+🌟 Lenguaje Principal: JavaScript
 ```
 <hr>
 
